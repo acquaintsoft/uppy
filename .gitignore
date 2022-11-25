@@ -15,8 +15,8 @@ yarn-error.log
 
 .env
 
-dist/
-lib/
+# dist/
+# lib/
 coverage/
 examples/dev/bundle.js
 examples/aws-php/vendor/*
